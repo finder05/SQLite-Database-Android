@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">sqlitedatabase</string>
+
+    <string name="hint_name">Enter Name</string>
+    <string name="hint_location">Enter Location</string>
+    <string name="hint_designation">Enter Designation</string>
+
+    <string name="btn_insert">Insert</string>
+    <string name="btn_view">View Data</string>
+
+    <string name="insert_success">Inserted Successfully</string>
+    <string name="insert_fail">Insert Failed</string>
+    <string name="no_data">No Data Found</string>
+
+</resources>
